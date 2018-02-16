@@ -24,7 +24,7 @@
 **III-Daniel :**
 _The average [MET](http://met.guc.edu.eg) student who never finishes before the deadline and misses it often ,but not this time._
 **IV-Mahmoud Khalaf :**
-_An [MET](http://met.guc.edu.eg) student willing to learn more about MEAN stack._
+_An [MET](http://met.guc.edu.eg) student willing to learn more about MEAN stack and web development._
 **V-Abdelrahman :**
 _[MET](http://met.guc.edu.eg)'s best soccer player to date._
 
